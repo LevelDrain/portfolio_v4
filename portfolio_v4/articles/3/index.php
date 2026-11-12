@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UnrealEngine4制作サンプル | 到龍門</title>
+    <title>UnrealEngine4制作サンプル | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -39,7 +39,7 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">UnrealEngine4制作サンプル</h2>
                 <p class="c-heading">
-                    UE4/Premierによる3DCG動画制作。UE4ぷちコン応募（学生作品）
+                    UE4/Premierによる3DCG動画制作。UE4ぷちコンに応募してみました。
                 </p>
                 <p class="c-heading">挿入曲</p>
                 <ul class="p-article--list">

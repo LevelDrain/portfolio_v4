@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>到龍門 - The road of Front End | 到龍門</title>
+    <title>図式屋 - The road of Front End | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -32,22 +32,10 @@
 
         <section class="p-article--text">
             <div class="l-container section-fadein">
-                <h2 class="c-title">到龍門 - The road of Front End</h2>
+                <h2 class="c-title">図式屋</h2>
                 <p class="c-heading">
-                    アニメーション、デザイン、flocssの導入など、現在のスキルレベルを分かるよう構成された現在の最高傑作。
-                    Illustratorに慣れながらも、動画やリソースを全て自前で用意したため、3ヵ月近い大作となってしまった。<br>
-                    一般的なポートフォリオやアーティストのブランディングサイトを研究し、最も「気持ちいい」と感じたデザインを追究。
-                </p>
-                <p class="c-heading">
-                    「到龍門」は「とうりゅうもん」と読み、未だフロントエンドエンジニアとして登龍門にも達していないという自分への戒めと向上心をテーマに命名。
-                    「The road of Front End」で「Front」という英単語を強調し、未だに登龍門の前にいることとフロントエンドを掛け合わせて見せている。
-                </p>
-                <p class="c-heading">
-                    フロントエンドはフレームワークを用いないながらも、babelでES6からES5に変換している。<br>
-                    バックエンドはCSVからのデータリスト読み込みで実装（DB移行予定）。
-                </p>
-                <p class="c-heading">
-                    高画質でリソースを書き出すと画面遷移やswiperなどの動作が遅くなり過ぎたため、Pngquantで減色する、解像度を落とすなどで対応。
+                    就職活動のためのポートフォリオです。動画やリソースを全て自前で用意したため、3ヵ月近い大作となっています。<br>
+                    バックエンドはCSVからのデータリスト読み込みで実装（DBに移行しなければ）。
                 </p>
 
                 <p class="c-heading">制作環境</p>

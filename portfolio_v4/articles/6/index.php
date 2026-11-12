@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ポ〇モンバトル | 到龍門</title>
+    <title>ポ〇モンバトル | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -35,7 +35,7 @@
                 <h2 class="c-title">ポ〇モンバトル</h2>
                 <p class="c-heading">
                     専門学校時代の1回生で初めてJavaScriptを触ったときの課題作品。<br>
-                    古き良き時代を感じたかったため制作。
+                    平成の古き良き時代を感じたかったため制作しました。
                 </p>
 
                 <p class="c-heading">開発環境</p>
@@ -53,8 +53,7 @@
             <div class="l-container section-fadein">
                 <h3 class="p-article--title">企画・仕様書</h3>
                 <p class="c-heading">
-                    専門学校では1回生とはいえプランナーとしてはプロなので、プロの意地を見せようと学校課題に本気で挑んだ。<br>
-                    レベルデザインについては、ただ攻撃するだけでは倒せないよう設定されている拘りがある。
+                    レベルデザインについては、ただ攻撃するだけでは倒せないようにしてあります。
                 </p>
                 <div class="p-article--btnbox">
                     <a href="https://leveldrain.sumomo.ne.jp/PokemonButtleJS/Specification.xlsx"

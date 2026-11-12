@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>一行日記 | 到龍門</title>
+    <title>一行日記 | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -34,16 +34,17 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">一行日記</h2>
                 <p class="c-heading">
-                    専門学校時代にインターンシップで参加して制作したもの。<br>
-                    1回生と合同だったため、CRUDの基礎から始めた。前半5日で指定課題、後半5日で企画から実装までの自由課題という充実した内容で取り組んだ。
-                    バックエンドの苦手意識はここで解消された。
+                    専門学校時代に企業実習に参加して制作したものです。<br>
+                    CRUDの基礎から始めました。前半5日で指定課題、後半5日で企画から実装までの自由課題という充実した内容で取り組みました。
+                    バックエンド開発に自信がつく良い経験でした。
                 </p>
                 <p class="c-heading">
-                    CRUDを全て使用した作品ということで真っ先に思いついたのが「ToDoリスト」だったが、他の学生と被ったため「絵日記デジタル化ツール」を考案した。
+                    CRUDを全て使用した作品というのが課題でした。夏休みの絵日記が面倒くさい人に向けた「絵日記デジタル化ツール」を開発しました。
                 </p>
                 <p class="c-heading">開発環境</p>
                 <ul class="p-article--list">
                     <li>PHP</li>
+                    <li>MySQL</li>
                 </ul>
                 <div class="p-article--btnbox">
                     <a href="https://leveldrain.sumomo.ne.jp/intern2019/" class="c-button" target="_blank"

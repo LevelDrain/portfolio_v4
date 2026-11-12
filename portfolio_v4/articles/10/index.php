@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>水準研究所 | 到龍門</title>
+    <title>水準研究所 | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -34,8 +34,8 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">水準研究所</h2>
                 <p class="c-heading">
-                    Vue.js案件を取得した後、どれだけ理解できているか実力を試すために制作したポートフォリオ。<br>
-                    アニメーションの実装など、フロントエンドのスキルを試したかったプレイグラウンド的な要素のある作品。
+                    Vue.jsを使ってみたいと考え、一度ポートフォリオを作ってみました。<br>
+                    SFのような世界観と脳みそが好きだったので添えてみました。
                 </p>
 
                 <p class="c-heading">制作環境</p>
@@ -50,7 +50,7 @@
             <div class="l-container section-fadein">
                 <h3 class="p-article--title">SF風アニメーションの実装</h3>
                 <p class="c-heading">
-                    SF映画でよくあるGUIをイメージした直線的な演出を実装している。画像はSVGでCSSのanimationで消したり表示したりを繰り返す。
+                    SF映画でよくある頭良さそうなGUIをイメージしました。画像はSVGでCSSのanimationで消したり表示したりを繰り返しています。
                 </p>
                 <div class="p-article--fig wl">
                     <img src="../img/img_portfoliov2_2.png" alt="">
@@ -60,7 +60,7 @@
             <div class="l-container section-fadein">
                 <h3 class="p-article--title">コンセプト</h3>
                 <p class="c-heading">
-                    フロントエンドの師匠が授業中に「ああ、ずっと水分管理されて寝ていたい」と言っていたのを思い出し、SF映画の培養槽をテーマに制作したいと考えていた。
+                    SF映画の培養槽をテーマに制作したいと考えていました。
                 </p>
                 <div class="p-article--fig centering wl">
                     <a href="https://seiga.nicovideo.jp/seiga/im3945773" target="_blank"
@@ -70,37 +70,22 @@
                     </p>
                 </div>
                 <p class="c-heading">
-                    Pixi.jsを使用したかったので、泡に見立てた画像にアニメーションを実装する。
+                    Pixi.jsで泡に見立てた画像にアニメーションをつけています。
                 </p>
                 <div class="p-article--fig wl">
                     <img src="../img/img_portfoliov2_1.png" alt="">
-                </div>
-
-                <p class="c-heading">
-                    水槽の脳（すいそうののう、Brain in a vat）とは、
-                    「自分が体験しているこの世界は、実は水槽に浮かんだ脳が見ているバーチャルリアリティなのではないか」
-                    という懐疑主義的な思考実験(<a href="https://w.atwiki.jp/p_mind/pages/35.html" target="_blank"
-                                     rel="noopener noreferrer">心の哲学まとめwiki</a>)。<br>
-                    画像は下記画像をリスペクトして描き起こしている。
-                </p>
-                <div class="p-article--fig wl">
-                    <a href="https://zeuxis_of_losdiajana.artstation.com/projects/Oy1NQv" target="_blank"
-                       rel="noopener noreferrer"><img src="../img/p2_sfimage2.jpg" alt="" class="pointerevent"></a>
-                    <p class="c-heading">
-                        Created by jeremy jozwik（画像クリックで制作者のサイトへ）
-                    </p>
                 </div>
             </div>
 
             <div class="l-container section-fadein">
                 <h3 class="p-article--title">モーダルのルーティング</h3>
                 <p class="c-heading">
-                    各ページがコンポーネントなので、実は親URLはhome一つしかない。
-                    Vue Routerでchildrenによって各記事のコンポーネントとURLを紐づけている。
+                    各ページがコンポーネントなので、実は親URLはhome一つしかない構造になっています。
+                    Vue Routerでchildrenによって各記事のコンポーネントとURLを紐づけています。
                 </p>
                 <p class="c-heading">
                     routerからstoreのモーダル開閉を制御する変数にアクセスすることで、
-                    モーダルを開くと共にURLを変更し、あたかもページが数ページあるように見せている。
+                    モーダルを開くと共にURLを変更し、あたかもページが数ページあるように見せています。
                 </p>
 
                 <div class="p-article--fig">

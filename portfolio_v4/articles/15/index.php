@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>塾ホームページ | 到龍門</title>
+    <title>塾ホームページ | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -34,8 +34,8 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">塾ホームページ</h2>
                 <p class="c-heading">
-                    フロントエンドエンジニアとして最初に請け負った案件。フルスクラッチでレスポンシブ対応をしたWebサイトを制作。<br>
-                    7日程度で制作したのち、メンテナンスやリテイクなどが長く続き1ヵ月程度。
+                    フロントエンドエンジニアとして最初に任せていただきました。フルスクラッチで7日程度でした。<br>
+                    もちろんレスポンシブ対応。
                 </p>
 
                 <p class="c-heading">制作環境</p>
@@ -46,7 +46,7 @@
 
                 <h3 class="p-article--title">タブメニューへのアコーディオン入れ子</h3>
                 <p class="c-heading">
-                    jQueryを使ったパーツの入れ子はコードが複雑になりがちだったが、指定通りの動作をするよう妥協なく仕上げた。
+                    jQueryを使ったパーツの入れ子はコードが複雑になりがちでしたが、指定通りの動作をするよう妥協なく仕上げました！
                 </p>
                 <div class="p-article--fig">
                     <img src="../img/img_matsugaku.png" alt="">

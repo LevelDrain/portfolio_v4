@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>南禅寺PV | 到龍門</title>
+    <title>南禅寺PV | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -39,7 +39,7 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">南禅寺PV</h2>
                 <p class="c-heading">
-                    京都コンピュータ学院時代の課題。実習用の動画リソースを編集して紹介動画を制作した。
+                    京都コンピュータ学院時代の課題。実習用の動画リソースを編集して紹介動画を制作しました。
                 </p>
                 <p class="c-heading">挿入曲</p>
                 <ul class="p-article--list">

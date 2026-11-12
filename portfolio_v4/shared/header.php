@@ -2,7 +2,7 @@
     <div class="l-flex l-container">
         <h1 class="p-header--logo">
             <a href="/portfolio_v4/" title="トップへ戻る">
-                <img src="https://leveldrain.sumomo.ne.jp/portfolio_v4/shared/img/img_logo.png" alt="到龍門">
+                Engineering Portfolio
             </a>
         </h1>
 
@@ -23,16 +23,8 @@
                     <li>
                         <div class="c-sns--wrap">
                             <a href="https://github.com/LevelDrain" itemprop="url" target="_blank"
-                               rel="noopener noreferrer">
+                                rel="noopener noreferrer">
                                 <i class="c-sns--icon fab fa-github-square"></i>
-                            </a>
-                            <a href="https://twitter.com/level_ueshima" itemprop="url" target="_blank"
-                               rel="noopener noreferrer">
-                                <i class="c-sns--icon fab fa-twitter-square"></i>
-                            </a>
-                            <a href="https://www.facebook.com/darkmatter77" itemprop="url" target="_blank"
-                               rel="noopener noreferrer">
-                                <i class="c-sns--icon fab fa-facebook-square"></i>
                             </a>
                             <a href="mailto:drain2291@gmail.com">
                                 <i class="c-sns--icon fas fa-envelope-square"></i>
@@ -54,16 +46,8 @@
                 <li class="p-header--menu">
                     <div class="c-sns--wrap">
                         <a href="https://github.com/LevelDrain" itemprop="url" target="_blank"
-                           rel="noopener noreferrer">
+                            rel="noopener noreferrer">
                             <i class="c-sns--icon fab fa-github-square"></i>
-                        </a>
-                        <a href="https://twitter.com/level_ueshima" itemprop="url" target="_blank"
-                           rel="noopener noreferrer">
-                            <i class="c-sns--icon fab fa-twitter-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/darkmatter77" itemprop="url" target="_blank"
-                           rel="noopener noreferrer">
-                            <i class="c-sns--icon fab fa-facebook-square"></i>
                         </a>
                         <a href="mailto:drain2291@gmail.com">
                             <i class="c-sns--icon fas fa-envelope-square"></i>

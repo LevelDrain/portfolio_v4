@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>予約システム | 到龍門</title>
+    <title>予約システム | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -34,12 +34,17 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">予約システム</h2>
                 <p class="c-heading">
-                    管理画面のGUIの修正および新規実装を担当。
+                    管理画面のGUIの修正および新規実装部分を担当しました。初めてのがっつりバックエンド案件です。
+                </p>
+                <p class="c-heading">
+                    システム改修なので最初から複雑な構造でしたが、なんとかコードリーディングで構造をつかめるよう努力しました。
                 </p>
                 <p class="c-heading">開発環境</p>
                 <ul class="p-article--list">
                     <li>Vue.js</li>
                     <li>Laravel</li>
+                    <li>MySQL</li>
+                    <li>Vagrant</li>
                 </ul>
                 <div class="p-article--btnbox c-border-top">
                     <a href="javascript:history.back();" class="c-button">戻る</a>

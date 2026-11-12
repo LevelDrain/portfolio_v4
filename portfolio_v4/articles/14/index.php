@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>工房コロンボ様ホームページ | 到龍門</title>
+    <title>工房コロンボ様ホームページ | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -34,10 +34,9 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">工房コロンボ様ホームページ</h2>
                 <p class="c-heading">
-                    WordPressのテンプレートが設定された状態から仲介者を経由して請ける。<br>
-                    「いい感じにしておいて」との指示であったため、デザインを優先して進捗報告をしながら進めた。<br>
-                    仕様書を制作する余裕がないとの要望を受け、内容は主に旧サイトの内容と手書き文書から書き起こす。<br>
-                    最終的に休業になったためリリースはされなかった。
+                    WordPressのテンプレートが設定された状態からスタートしました。<br>
+                    内容は主に旧サイトの内容と手書きのメモから書き起こしました。<br>
+                    ※ 事情により本ページはリリースされておりません。
                 </p>
                 <p class="c-heading">制作環境</p>
                 <ul class="p-article--list">
@@ -47,7 +46,7 @@
 
                 <h3 class="p-article--title">コピーライティング</h3>
                 <p class="c-heading">
-                    企業理念や事業内容が完結に伝わるよう、可能な限り短い文章になるまで推敲した。
+                    企業理念や事業内容が完結に伝わるよう、可能な限り短い文章になるまで推敲しました。
                 </p>
                 <div class="p-article--fig">
                     <img src="../img/colombo_pu1.png" alt="">
@@ -57,7 +56,7 @@
             <div class="l-container section-fadein">
                 <h3 class="p-article--title">書き起こし</h3>
                 <p class="c-heading">
-                    鉛筆で書かれたメモからデジタルに書き起こした。
+                    なんと鉛筆で書かれたメモから書き起こしました。
                 </p>
                 <div class="p-article--fig">
                     <img src="../img/colombo_pu2.png" alt="">
@@ -65,11 +64,11 @@
             </div>
 
             <div class="l-container section-fadein">
-                <h3 class="p-article--title">レタッチ</h3>
+                <h3 class="p-article--title">レタッチもやりました</h3>
                 <p class="c-heading">
                     スマホで撮影された画像を修正。<br>
-                    室内での撮影のため照明が暗い、画像が逆さ、ファイルサイズが大きいなどの課題を解決した。<br>
-                    明るさに関してはモデルルームの写真のような仕上がりになるよう、白ベースの色をさらに協調している。
+                    室内での撮影のため照明が暗い、画像が逆さ、ファイルサイズが大きいなどの課題がありました。<br>
+                    明るさに関してはモデルルームの写真のような仕上がりになるよう、白ベースの色をさらに協調しています。
                 </p>
                 <div class="p-article--fig">
                     <img src="../img/colombo_pu3.png" alt="">

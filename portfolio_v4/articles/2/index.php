@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>水生植物公園みずの森PV | 到龍門</title>
+    <title>水生植物公園みずの森PV | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -39,7 +39,7 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">水生植物公園みずの森PV</h2>
                 <p class="c-heading">
-                    取材から動画制作まで一貫して経験した施設紹介（学生作品）
+                    取材から動画制作まで一貫して経験してみた施設紹介動画です。非公式です。
                 </p>
                 <p class="c-heading">挿入曲</p>
                 <ul class="p-article--list">

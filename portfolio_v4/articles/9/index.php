@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>魔法生成サイト「ジオストーム」 | 到龍門</title>
+    <title>魔法生成サイト「ジオストーム」 | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -35,19 +35,15 @@
                 <h2 class="c-title">魔法生成サイト「ジオストーム」</h2>
                 <p class="c-heading">
                     ゲームの魔法のような派手なエフェクトが好き、 転生して勇者を倒したい、邪気眼がうずいて力が暴走する……<br>
-                    そんな魔王様に厨二気分なひとときを送るための厨二心ジェネレーター（本文引用）。
+                    そんな魔王様たちに厨二気分なひとときを送るための厨二心ジェネレーターです。
                 </p>
                 <div class="p-article--btnbox">
                     <a href="https://leveldrain.sumomo.ne.jp/WebEffectGenerator/" class="c-button" target="_blank" rel="noopener noreferrer">オープニングページへ</a>
                 </div>
 
                 <p class="c-heading">
-                    Three.jsを初めて触った講義の最終課題。あまりの感動に、担当したフロントエンド講師に弟子入りした経緯がある。<br>
-                    これをきっかけにフロントエンドエンジニアを志すが…… 師弟関係の後日談は「崖っぷちエンジニア録」へ。
+                    Three.jsを初めて触った講義の最終課題。
                 </p>
-                <div class="p-article--fig">
-                <iframe class="note-embed" src="https://note.com/embed/notes/n0f6b64ac8a9b" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
-                </div>
 
                 <p class="c-heading">制作環境</p>
                 <ul class="p-article--list">
@@ -58,8 +54,8 @@
 
                 <h3 class="p-article--title">属性の変更が可能</h3>
                 <p class="c-heading">
-                    風、炎の2種類の属性を選択可能。また、形状は竜巻か球体に変更ができる。<br>
-                    多用な属性や形状を実装する予定であったが、提出を期に一旦制作を打ち切る。今後類似の物を作る際は、更にクオリティを上げておきたい。
+                    風、炎の2種類の属性を選択可能です。また、形状は竜巻か球体に変更ができます。<br>
+                    多用な属性や形状を実装する予定でしたが、提出日があったので試作品に留まってしまいました。
                 </p>
                 <div class="p-article--fig">
                     <img src="../img/img_geostorm.png" alt="">

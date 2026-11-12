@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ローズマリー様ホームページ | 到龍門</title>
+    <title>ローズマリー様ホームページ | 図式屋</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./../../shared/css/vendor/lity.min.css">
@@ -34,12 +34,10 @@
             <div class="l-container section-fadein">
                 <h2 class="c-title">ローズマリー様ホームページ</h2>
                 <p class="c-heading">
-                    音楽教室のコーポレートサイトの企画、Webデザイン、CSSカスタマイズ、SEO対策、ライティング、ロゴ制作、バナー制作など、CMS（JIMDO）を用いたホームページ制作の全てに関わる業務を一括で請ける。<br>
+                    音楽教室のコーポレートサイトの企画、Webデザイン、CSSカスタマイズ、SEO対策、ライティング、ロゴ制作、バナー制作など、CMS（JIMDO）を用いたホームページ制作の全てに関わる業務を一括で任せていただきました。<br>
                 </p>
                 <p class="c-heading">
-                    検索でヒットせず0人だった訪問者数が、修正後1日1～3人に増加。<br>
-                    また、新店舗開店に伴うアップデート以降、2021/5/18-2021/5/28の10日間で訪問者数が9人に増加。<br>
-                    電話での店舗への問い合わせが増えた、デザインが理想的だったとの報告を受ける。
+                    電話での店舗への問い合わせが増えた、デザインが理想的だったとご好評いただいております。
                 </p>
 
                 <p class="c-heading">開発環境</p>
@@ -117,17 +115,15 @@
                     </div>
 
                     <p class="c-heading">
-                        ピアノの早期教育によりIQが高くなること、人間性が高まること、芸術的センスが育つことについての長文記事を要約し、「創造性」「知性」「未来を育む音楽のチカラ」というコピーに落とし込む。<br>
-                        画像は「ぱくたそ」のフリー素材を使用。
+                        サービスの魅力が伝わるように文章を構成し直しました。
                     </p>
                     <div class="p-article--fig">
                         <img src="../img/img_child1.png" alt="">
                     </div>
 
                     <p class="c-heading">
-                        音楽と英語を同時に習得できる講座を推すためのバナー。<br>
-                        「プリトーン」という一般の訪問者に馴染みのない単語を用いたため、システムを理解しやすいよう挿絵用バナーを制作。<br>
-                        人物デッサンを練習し始めた際に制作したため、かなりの自信作となっている。
+                        音楽と英語を同時に習得できる講座のバナー。<br>
+                        サービスを理解しやすいよう挿絵用バナーを制作。
                     </p>
                     <div class="p-article--fig">
                         <img src="../img/img_pretoon.jpg" alt="">
