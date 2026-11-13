@@ -22,12 +22,20 @@
                     </li>
                     <li>
                         <div class="c-sns--wrap">
+                            <a href="mailto:drain2291@gmail.com">
+                                <i class="c-sns--icon fas fa-envelope-square"></i>
+                            </a>
                             <a href="https://github.com/LevelDrain" itemprop="url" target="_blank"
                                 rel="noopener noreferrer">
                                 <i class="c-sns--icon fab fa-github-square"></i>
                             </a>
-                            <a href="mailto:drain2291@gmail.com">
-                                <i class="c-sns--icon fas fa-envelope-square"></i>
+                            <a href="https://www.linkedin.com/in/yuki-samuraki-683121171/" itemprop="url"
+                                target="_blank" rel="noopener noreferrer">
+                                <i class="c-sns--icon fab fa-linkedin"></i>
+                            </a>
+                            <a href="https://crowdworks.jp/public/employees/4064722?ref=share_url_wkprofile"
+                                itemprop="url" target="_blank" rel="noopener noreferrer">
+                                <i class="c-sns--icon fas fa-cloud"></i>
                             </a>
                         </div>
                     </li>
@@ -45,12 +53,20 @@
                 </li>
                 <li class="p-header--menu">
                     <div class="c-sns--wrap">
+                        <a href="mailto:drain2291@gmail.com">
+                            <i class="c-sns--icon fas fa-envelope-square"></i>
+                        </a>
                         <a href="https://github.com/LevelDrain" itemprop="url" target="_blank"
                             rel="noopener noreferrer">
                             <i class="c-sns--icon fab fa-github-square"></i>
                         </a>
-                        <a href="mailto:drain2291@gmail.com">
-                            <i class="c-sns--icon fas fa-envelope-square"></i>
+                        <a href="https://www.linkedin.com/in/yuki-samuraki-683121171/" itemprop="url" target="_blank"
+                            rel="noopener noreferrer">
+                            <i class="c-sns--icon fab fa-linkedin"></i>
+                        </a>
+                        <a href="https://crowdworks.jp/public/employees/4064722?ref=share_url_wkprofile" itemprop="url"
+                            target="_blank" rel="noopener noreferrer">
+                            <i class="c-sns--icon fas fa-cloud"></i>
                         </a>
                     </div>
                 </li>
