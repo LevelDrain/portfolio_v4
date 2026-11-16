@@ -307,7 +307,7 @@
                                                 HTML / CSS / jQueryによる塾サイト制作、LP制作も担当。整骨院セミナー広告用LP（縦約42,100px）を納期5日で納品。
                                             </p>
                                             <p class="career-tech">Laravel / Vue.js / Blade / JavaScript / jQuery /
-                                                Docker / GitLab</p>
+                                                Vagrant / GitLab / 完全リモートワーク</p>
                                         </div>
                                     </div>
 
