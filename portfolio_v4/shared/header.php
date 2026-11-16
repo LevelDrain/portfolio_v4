@@ -2,7 +2,7 @@
     <div class="l-flex l-container">
         <h1 class="p-header--logo">
             <a href="/portfolio_v4/" title="トップへ戻る">
-                Engineering Portfolio
+                Portfolio
             </a>
         </h1>
 

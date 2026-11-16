@@ -8,7 +8,7 @@
     <meta name="description" content="佐村木友紀のポートフォリオ。AI活用と修理が得意なエンジニア。">
     <meta name="keywords" content="ポートフォリオ, 佐村木">
     <meta name="google-site-verification" content="tZqs0OHBtbjxrSPSumM4AMEh1bJaXhAhjaKFlA2_iIs" />
-    <title>佐村木友紀 | Engineering Portfolio</title>
+    <title>佐村木友紀 | Portfolio</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./shared/css/vendor/lity.min.css">
@@ -19,7 +19,7 @@
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "name": "佐村木友紀 | Engineering Portfolio",
+        "name": "佐村木友紀 | Portfolio",
         "url": "https://leveldrain.sumomo.ne.jp/portfolio_v4/",
         "description": "佐村木友紀のポートフォリオ。AI活用と修理が得意なエンジニア。"
     }
@@ -430,40 +430,7 @@
                         </div>
 
                         <div class="c-accordion--parent">
-                            <h2 class="c-title">ソシャゲ企画のお仕事</h2>
-                        </div>
-
-                        <div class="c-accordion--child">
-                            <div class="l-flex--pc">
-                                <!-- ここからカード展開 -->
-                                <?php foreach ($record as $id => $contents): ?>
-
-                                <?php if ($contents[5] == 'career'): // カテゴリ  
-                                    ?>
-
-                                <?php if (substr($contents[4], 0, 6) === 'https:') { // 外部リンクの場合
-                                            echo '<a class="c-card" href="' . hsc($contents[4]) . '" target="_blank" rel="noopener noreferrer">';
-                                        } else {
-                                            echo '<a class="c-card animsition-link" href="./articles/' . hsc($contents[4]) . '">';
-                                        } ?>
-                                <img class="c-card--img" src="articles/img/<?= hsc($contents[1]) ?>" alt="">
-                                <div class="c-card--body">
-                                    <h5 class="c-card--title"><?= nl2br(hsc($contents[2])) ?></h5>
-                                    <p class="text">
-                                        <?= nl2br(hsc($contents[3])) ?>
-                                    </p>
-                                </div>
-                                </a>
-
-                                <?php endif; ?>
-
-                                <?php endforeach; ?>
-                                <!-- カード終了 -->
-                            </div>
-                        </div>
-
-                        <div class="c-accordion--parent">
-                            <h2 class="c-title">アート系の趣味について</h2>
+                            <h2 class="c-title">その他、動画制作の学習</h2>
                         </div>
 
                         <div class="c-accordion--child">
