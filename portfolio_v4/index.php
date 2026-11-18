@@ -57,36 +57,6 @@
             fclose($handle);
             ?>
 
-            <section class="p-pickup">
-                <div class="p-pickup--container section-fadein">
-                    <div class="swiper-container">
-                        <div class="swiper-wrapper">
-                            <!-- ここからswiper -->
-                            <?php
-                            foreach ($record as $id => $contents):
-                            ?>
-                            <?php if ($contents[6] == 'TRUE'): // pickup 
-                                ?>
-                            <div class="swiper-slide slide-item">
-                                <?php if (substr($contents[4], 0, 6) === 'https:') { // 外部リンクの場合
-                                            echo '<a href="' . hsc($contents[4]) . '" target="_blank" rel="noopener noreferrer">';
-                                        } else {
-                                            echo '<a class="animsition-link" href="./articles/' . hsc($contents[4]) . '">';
-                                        } ?>
-                                <img src="articles/img/<?= hsc($contents[1]) ?>" alt="" class="pointerevent">
-                                </a>
-                            </div>
-                            <?php endif; ?>
-
-                            <?php endforeach; ?>
-                            <!-- swiper終了 -->
-                        </div>
-                        <div class="swiper-button-prev"></div>
-                        <div class="swiper-button-next"></div>
-                    </div>
-                </div>
-            </section>
-
             <section class="p-portfolio" id="works">
                 <div class="l-container">
                     <div class="c-accordion">

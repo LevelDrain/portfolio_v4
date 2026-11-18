@@ -2,7 +2,7 @@
     <div class="l-flex l-container">
         <h1 class="p-header--logo">
             <a href="/portfolio_v4/" title="トップへ戻る">
-                Portfolio
+                Yuki Samuraki Portfolio
             </a>
         </h1>
 
